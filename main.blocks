@@ -1,0 +1,43 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="|r2c$QY_]!F{4GB?!0%=" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="3.Is`93vp|},vA!U$D?T"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="~*nX.88*/Is@mZAH2NAO"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="basic_show_icon" id="gwh1Lwn+DkWF=a.Ip3dD"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="6YWDgA!d]xUOy-.oT70M"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="hc0(rpKPlU1tk|.=3PBu"><field name="LEDS">`
+        . . # . # 
+        . # # # # 
+        . # # # # 
+        . . # # # 
+        . . . # .
+        `</field><next><block type="device_show_leds" id="}g7mi9X=y}v.oUg9,[!`"><field name="LEDS">`
+        . . . # . 
+        . . # # # 
+        . . # # # 
+        . . . # # 
+        . . . . #
+        `</field><next><block type="device_show_leds" id="CwK(8/]c1E#5R`Iu9sSj"><field name="LEDS">`
+        . . . . # 
+        . . . # # 
+        . . . # # 
+        . . . . # 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="E7^6q~;!l:@e5wMnNVY)"><field name="LEDS">`
+        . . . . . 
+        . . . . # 
+        . . . . # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="!vt6rU.McntW1#e|3rG/"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_print_message" id="Onwn,g@0(`%zi;4dST#M"><value name="text"><shadow type="text" id="#?l3lrpZbS[81rgg0#5V"><field name="TEXT">STOP BULLYING</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="*/J$0*ow8rafO~_5khf~" x="205" y="0"/></xml>
